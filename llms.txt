@@ -26,4 +26,5 @@
 
 ## Страницы
 - [Главная и тарифы](https://kaztelesystem.kz/)
+- [Қазақша нұсқа](https://kaztelesystem.kz/kk/)
 - [Публичный договор](https://kaztelesystem.kz/wp-content/themes/Kaztelesistem/img/1.pdf)
